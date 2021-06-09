@@ -1,3 +1,5 @@
+Fork of https://github.com/SonarSource/sonar-scanner-cli-docker
+
 [![Build Status](https://travis-ci.org/SonarSource/sonar-scanner-cli-docker.svg?branch=master)](https://travis-ci.org/SonarSource/sonar-scanner-cli-docker)
 
 # SonarScanner CLI
