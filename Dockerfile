@@ -1,4 +1,4 @@
-FROM debian:stretch-slim@sha256:828b649e84b713d1b11a1bcf88e832625e99d74aecfeeb5bec1b0846bb40dce1
+FROM debian:buster-slim@sha256:33965bf1eaadb19ce2f9396595c4a669e3e04c1ab8cc073b8929f529c58404bb
 
 ARG SONAR_SCANNER_HOME=/opt/sonar-scanner
 ARG NODEJS_HOME=/opt/nodejs
